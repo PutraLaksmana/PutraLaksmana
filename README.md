@@ -1,5 +1,7 @@
 ### Hi everyone, I’m Putra Laksmana 👋
 
+ <img align="right" alt="GIF" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/coding%20life%20style.gif?raw=true" width="500" height="320" />
+
 ## I'm a Web3 Developer.
 
 - 👀 I’m interested in Blockchain
