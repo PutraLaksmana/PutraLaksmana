@@ -26,7 +26,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Type Script" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="React" width="30px" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/react.png" />
-<img align="left" alt="Hardhat" width="73px" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/hardhat-logo.svg" />
+<img align="left" alt="Hardhat" width="63px" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/hardhat-logo.svg" />
 <img align="left" alt="Truffle" width="30px" src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" />
 <img align="left" alt="Web3js" width="35px" src="https://compile.blog/wp-content/uploads/2021/11/web3-icon.png" />
 <img align="left" alt="etherjs" width="44px" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/ether%20js%20icons.png" />
