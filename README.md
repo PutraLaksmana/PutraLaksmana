@@ -21,16 +21,17 @@
 
 
 <img align="left" alt="Solidity" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
-<img align="left" alt="Hardhat" width="43px" src="https://github.com/YamenMerhi/YamenMerhi/blob/main/20210904_195403.png" />
-<img align="left" alt="Truffle" width="30px" src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" />
-<img align="left" alt="Web3js" width="35px" src="https://miro.medium.com/max/1400/1*2GHi9FwnyA5UTJpcxPSG7A.jpeg" />
-<img align="left" alt="etherjs" width="44px" src="https://github.com/YamenMerhi/YamenMerhi/blob/main/20210904_201245.png" />
-<img align="left" alt="Metamask" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Type Script" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<img align="left" alt="React" width="30px" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/react.png" />
+<img align="left" alt="Hardhat" width="73px" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/hardhat-logo.svg" />
+<img align="left" alt="Truffle" width="30px" src="https://avatars.githubusercontent.com/u/22205159?s=200&v=4" />
+<img align="left" alt="Web3js" width="35px" src="https://compile.blog/wp-content/uploads/2021/11/web3-icon.png" />
+<img align="left" alt="etherjs" width="44px" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/ether%20js%20icons.png" />
+<img align="left" alt="Metamask" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
