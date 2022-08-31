@@ -8,7 +8,8 @@
 - 🥅 2022 Goals: Participate in more interactive developer relationship activities
 
 ### Connect with me:
-[<img align="left" alt="PutraLaksmana | Twitter" width="22px" src="[https://www.flaticon.com/free-icons/twitter](https://www.flaticon.com/free-icon/twitter_3670127?term=twitter&related_id=3670127#)" />](https://twitter.com/putralaksmana_)
+[<img align="left" alt="PutraLaksmana | Twitter" width="22px" src="![twitter](https://user-images.githubusercontent.com/92698143/187578903-a2d5417b-af05-4329-8fb9-92b86aadeee5.png)
+" />](https://twitter.com/putralaksmana_)
 [<img align="left" alt="PutraLaksmana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/putra-laksmana-8b6079190/)
 
 <br />
