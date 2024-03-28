@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in all Programming Language & Tech.
 - 💻 I am currently working as an independent smart contract auditor.
-- - 🥅 2024 Goals: Participate in more interactive developer relationship activities
+- 🥅 2024 Goals: Participate in more interactive developer relationship activities
 
 ### Connect with me:
 [![twitter (1)](https://user-images.githubusercontent.com/92698143/187579971-bb9ab2cb-42ed-489f-b476-010ce041e6d1.png)
