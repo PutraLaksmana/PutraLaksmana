@@ -2,10 +2,10 @@
 
  <img align="right" alt="GIF" src="https://github.com/PutraLaksmana/PutraLaksmana/blob/main/coding%20life%20style.gif?raw=true" width="500" height="320" />
 
-## I'm a Developer.
+## I'm a Web3 Security Researcher.
 
-- 👀 I’m interested in all Programming Language & Tech.
 - 💻 I am currently working as an independent smart contract auditor.
+- 👀 I’m interested in all Programming Language & Tech.
 - 🥅 2024 Goals: Participate in more interactive developer relationship activities
 
 ### Connect with me:
