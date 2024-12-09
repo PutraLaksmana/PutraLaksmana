@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [![twitter (1)](https://user-images.githubusercontent.com/92698143/187579971-bb9ab2cb-42ed-489f-b476-010ce041e6d1.png)
-](https://twitter.com/putralaksmana_)
+](https://twitter.com/0x50_laksmana)
 [![linkedin (1)](https://user-images.githubusercontent.com/92698143/187579842-33eade9f-5644-426d-83f5-d97dd36a3d7d.png)
 ](https://www.linkedin.com/in/putra-laksmana-8b6079190/)
 
